@@ -33,7 +33,7 @@ pip install speedtest-cli
 
 
 
-git clone https://github.com/yourusername/SpeedCheckPy.git
+git clone https://github.com/Kirankumarvel/SpeedCheckPy.git
 cd SpeedCheckPy
 
 2. Run the script:
